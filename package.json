@@ -12,8 +12,11 @@
   "author": "Salman Bukhari",
   "license": "ISC",
   "dependencies": {
+    "@rfg/product-helpful-links": "^3.0.0",
+    "apisauce": "^2.1.1",
     "express": "^4.17.1",
     "html-webpack-plugin": "^5.3.1",
+    "react": "^17.0.2",
     "validator": "^13.6.0",
     "webpack": "^5.37.1",
     "webpack-cli": "^4.7.0",

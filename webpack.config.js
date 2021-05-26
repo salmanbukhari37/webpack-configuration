@@ -11,6 +11,7 @@ module.exports = {
         publicPath: '/'
     },
     devServer: {
+        port: 8091,
         contentBase: path.resolve(__dirname, 'dist'),
     },
     plugins: [
