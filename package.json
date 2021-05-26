@@ -1,0 +1,19 @@
+{
+  "name": "webpack-learn",
+  "version": "1.0.0",
+  "description": "Webpack Learning",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack serve",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salman Bukhari",
+  "license": "ISC",
+  "dependencies": {
+    "validator": "^13.6.0",
+    "webpack": "^5.37.1",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
